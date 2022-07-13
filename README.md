@@ -1,10 +1,10 @@
-# 👋 Hi, I’m @samcdonovan
-I am currently a Computer Science (BSc) student, aiming to complete my degree with a First by July 2022, and moving into the working world from there!
+# 👋 Hey there! I’m Sam (@samcdonovan)
+I am a Computer Science (BSc) graduate (First Class), and I am currently seeking a Software Engineering role!
 
 ## 👀 I’m interested in ...
-My current passions lie in Full Stack development and Artificial Intelligence, and as such, I am aiming for a job in either (or both) of these areas of Computer Science.
+My current passions lie in Back-end, Full Stack and Artificial Intelligence, and as such, I am aiming for a job in these areas of Computer Science.
 
-## 🌱 I’m currently learning ...
+## 🌱 Languages/expertise...
 Java, Python, JS (Node, TypeScript, Vue), C++
 Advanced Web Dev, Big Data, Artificial Intelligence, Web Scraping
 
